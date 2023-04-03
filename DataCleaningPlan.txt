@@ -1,0 +1,83 @@
+2		1st College Semester GPA
+		fill null values with average GPA of column
+		
+4		SARADAP_PIDM
+		Ask what this is
+		
+8		APPDT
+		Ask what this is
+		
+9		Hours Transferred Iin
+		fill null values with 0 value
+
+14	HOUSING
+		Ask meaning of 0 and Y
+		fill null value accordingly
+		change values to integers
+		
+15	ORIENTATION_SESSION
+		Ask meaning of OO -> change value to integer
+
+17	ACT_COMPOSITE
+		Fill null values with median value
+		
+18	SAT_TOTAL
+		Consider not taking this into account due to low reporting
+		
+23	FA_Status_Codes
+		consider dropping due to redundancies (col 24 & 25)
+		
+24	Pell_Eligible
+		fill null values
+		alter values to integers
+		
+25	First_Gen_Status
+		fill null values
+		alter values to integers
+		
+26	FAFSA
+		consider dropping due to relevance
+		
+27	Appalachian County
+		fill null values with 0
+		convert "yes" to 1
+		
+28	TN Geographic Divisions
+		convert into dummies
+		default null values to middle tn
+		
+29	DEPT
+		consider dropping due to redundancies (col 12 & 13)
+		
+30	MAJOR
+		use this in comparison to col 37
+		
+31	CONCEN
+		consider dropping due to relevance
+		
+32	COLLEGE
+		use this in comparison to col 36
+		
+33	CLASS
+		consider dropping all rows with values other that "FR" due to scope of project
+		
+34	SEGMENT
+		Ask what this is
+		
+35	Fall 1 Retention
+		consider dropping due to everyone recieving 1
+		
+36	COLLEGES1
+		use this in comparison to col 32
+		fill null values with value in col 32 to assume no change
+		
+37	MAJORS1
+		use this in comparison to col 30
+		fill null values with value in col 30 to assume no change
+
+38	Spring 1 Retention
+		This is the value of determination
+		
+Create new values reflecting if there is a difference in col 32 & 36 as well as col 30 & 37
+		
+Do not consider col 39-48 because they are not relevant to the scope of the project
