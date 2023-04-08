@@ -1,0 +1,788 @@
+HighSchool,HSCount,Stay,Dropout,Dropout_Rate
+"Cookeville High School",490,444,46,90.61
+"White County High School",157,134,23,85.35
+"Livingston Academy",144,126,18,87.50
+"Upperman High School",172,154,18,89.53
+"Cumberland County High School",90,73,17,81.11
+"Warren County High School",118,102,16,86.44
+"Jackson County High School",51,37,14,72.55
+"Stone Memorial High School",99,88,11,88.89
+"Lebanon High School",108,97,11,89.81
+"Monterey High School",52,42,10,80.77
+"DeKalb County High School",80,70,10,87.50
+"Macon County High School",56,47,9,83.93
+"Sequatchie County High School",45,36,9,80.00
+"Clarkrange High School",33,24,9,72.73
+"Wilson Central High School",94,86,8,91.49
+"Mount Juliet High School",94,86,8,91.49
+"Stewarts Creek High School",62,54,8,87.10
+"Nolensville High School",38,30,8,78.95
+"Coffee County Central Hs",61,54,7,88.52
+"Scott High School",21,14,7,66.67
+"York Institute",54,47,7,87.04
+"Lavergne High School",25,18,7,72.00
+"Oak Ridge High School",33,26,7,78.79
+"Clay County High School",38,32,6,84.21
+"Summit High School",60,54,6,90.00
+"Independence High School",56,50,6,89.29
+"Siegel High School",31,26,5,83.87
+"McGavock High School",38,33,5,86.84
+"Maryville High School",63,58,5,92.06
+"Walker Valley High School",36,31,5,86.11
+"Lexington High School",20,15,5,75.00
+"Blackman High School",43,39,4,90.70
+"Station Camp High School",54,50,4,92.59
+"Jefferson County High School",23,19,4,82.61
+"Watertown High School",25,21,4,84.00
+"Tullahoma High School",28,24,4,85.71
+"Fred J Page High School",37,33,4,89.19
+"Bledsoe County High School",23,19,4,82.61
+"Grundy County High School",25,21,4,84.00
+"Beech High School",41,37,4,90.24
+"Marshall County High School",25,21,4,84.00
+"Soddy-Daisy High School",28,24,4,85.71
+"Brentwood High School",17,13,4,76.47
+"Red Bank High School",14,10,4,71.43
+"Farragut High School",30,26,4,86.67
+"Cannon County High School",20,16,4,80.00
+"Rockvale High School",15,11,4,73.33
+"Anderson County High School",37,34,3,91.89
+"Smith County High School",41,38,3,92.68
+"Gordonsville High School",43,40,3,93.02
+"Daniel 1 Academy",31,28,3,90.32
+"Friendship Christian School",23,20,3,86.96
+"Cleveland High School",27,24,3,88.89
+"Oneida High School",18,15,3,83.33
+"Clinton High School",19,16,3,84.21
+"Gallatin High School",29,26,3,89.66
+"Nashville School Of The Arts",5,2,3,40.00
+"Dickson County High School",54,51,3,94.44
+"Sequoyah High School",22,19,3,86.36
+"Sale Creek High School",6,3,3,50.00
+"John Overton Comprehensive Hs",26,23,3,88.46
+"Chuckey Doak High School",6,3,3,50.00
+"Oakland High School",42,39,3,92.86
+"Huntland High School",18,15,3,83.33
+"Morristown Hamblen Hs West",13,10,3,76.92
+"Sunbright High School",10,7,3,70.00
+"Rhea County High School",19,16,3,84.21
+"Dobyns Bennett High School",19,16,3,84.21
+"Hendersonville High School",51,48,3,94.12
+"Chattanooga Sch Arts/sciences",10,7,3,70.00
+"Gateway Christian Schools",14,12,2,85.71
+"Pickett County High School",37,35,2,94.59
+"McMinn County High School",13,11,2,84.62
+"Creek Wood High School",26,24,2,92.31
+"Home Life Academy",52,50,2,96.15
+"Sycamore High School",28,26,2,92.86
+"William Blount High School",35,33,2,94.29
+"Bearden High School",34,32,2,94.12
+"Columbia Central High School",18,16,2,88.89
+"White House Heritage School",27,25,2,92.59
+"Centennial High School",30,28,2,93.33
+"Spring Hill High School",19,17,2,89.47
+"Central Magnet School",34,32,2,94.12
+"Antioch High School",17,15,2,88.24
+"Franklin County High School",40,38,2,95.00
+"Bradley Central High School",20,18,2,90.00
+"Clarksville High School",15,13,2,86.67
+"Science Hill High School",19,17,2,89.47
+"Hardin Valley Academy",41,39,2,95.12
+"David Crockett High School",11,9,2,81.82
+"Franklin High School",36,34,2,94.44
+"Smyrna High School",29,27,2,93.10
+"Central High School McMinn Co",11,9,2,81.82
+"Riverdale High School",30,28,2,93.33
+"Marion County High School",13,11,2,84.62
+"Brighton High School",7,5,2,71.43
+"Trousdale County High School",32,30,2,93.75
+"Portland Senior High School",36,34,2,94.44
+"Ravenwood High School",29,27,2,93.10
+"Springfield High School",18,16,2,88.89
+"Lincoln County High School",15,13,2,86.67
+"Harpeth High School",34,32,2,94.12
+"Middle Tennessee Christian Sch",16,14,2,87.50
+"Hixson High School",19,17,2,89.47
+"Webb School",8,6,2,75.00
+"Karns High School",18,16,2,88.89
+"STEM School Chattanooga",12,10,2,83.33
+"Johnson County High School",8,6,2,75.00
+"Clinton County High           ",6,4,2,66.67
+"Gatlinburg-Pittman High School",8,6,2,75.00
+"Penn Foster High School       ",12,10,2,83.33
+"Lipscomb Academy",9,7,2,77.78
+"Camden Central High School",4,2,2,50.00
+"Cherokee High School",8,7,1,87.50
+"Rossview High School",12,11,1,91.67
+"Van Buren County High School",26,25,1,96.15
+"Heritage Christian Academy",17,16,1,94.12
+"Mount Juliet Christian Academy",15,14,1,93.33
+"Berean Christian High School",9,8,1,88.89
+"Sullivan South High School",10,9,1,90.00
+"Sullivan Central High School",7,6,1,85.71
+"Loudon High School",21,20,1,95.24
+"Goodpasture Christian School",16,15,1,93.75
+"Kenwood High School",16,15,1,93.75
+"South Gibson County HS",18,17,1,94.44
+"Baylor School",12,11,1,91.67
+"Midway High School",7,6,1,85.71
+"Peabody High School",2,1,1,50.00
+"Waverly Central High School",13,12,1,92.31
+"Notre Dame High School",10,9,1,90.00
+"William Mason High School     ",1,0,1,0.00
+"West Greene High School",7,6,1,85.71
+"Chattanooga Christian School",18,17,1,94.44
+"L&N Stem Academy",6,5,1,83.33
+"Pearl-Cohn High School",1,0,1,0.00
+"Tellico Plains High School",3,2,1,66.67
+"Alcoa High School",12,11,1,91.67
+"Chester County High School",4,3,1,75.00
+"Signal Mountain High School",14,13,1,92.86
+"Unicoi County High School",9,8,1,88.89
+"Pigeon Forge High School",7,6,1,85.71
+"Mount Pleasant High School",4,3,1,75.00
+"North Greene High School",5,4,1,80.00
+"Cornersville High School",7,6,1,85.71
+"North Side High School",3,2,1,66.67
+"Meigs County High School",17,16,1,94.12
+"Northeast High School",13,12,1,92.31
+"Merrol Hyde Magnet School",7,6,1,85.71
+"Austin East Magnet High School",5,4,1,80.00
+"East Ridge High School",1,0,1,0.00
+"East Robertson High School",12,11,1,91.67
+"Eagleville High School",10,9,1,90.00
+"Martin Luther King High Magnet",35,34,1,97.14
+"Forrest High School",11,10,1,90.91
+"Greenbrier High School",9,8,1,88.89
+"Central High School",28,27,1,96.43
+"Giles County High School",5,4,1,80.00
+"Westmoreland High School",5,4,1,80.00
+"Hunters Lane High School",9,8,1,88.89
+"Houston High School",8,7,1,87.50
+"Lawrence County High School",3,2,1,66.67
+"Knoxville Catholic High School",12,11,1,91.67
+"Father Ryan High School",24,23,1,95.83
+"North Lamar High School",1,0,1,0.00
+"Stephen Decatur High School",2,1,1,50.00
+"Donelson Christian Academy",11,10,1,90.91
+"Munford High School",4,3,1,75.00
+"Ensworth High School",3,2,1,66.67
+"STEP Prep Academy High School",7,6,1,85.71
+"Heritage High School",21,20,1,95.24
+"Roane County High School",19,18,1,94.74
+"Volunteer High School",8,7,1,87.50
+"Republic High School",10,9,1,90.00
+"Elizabethton High School",6,5,1,83.33
+"Franklin Road Christian School",3,2,1,66.67
+"Renaissance High School",2,1,1,50.00
+"Sumner Co Middle College HS",2,1,1,50.00
+"Arlington High School",9,8,1,88.89
+"Carl Junction R-I High School ",1,0,1,0.00
+"Tennessee School For The Blind",3,2,1,66.67
+"Hoover High School            ",3,2,1,66.67
+"Bartlett Yancey Senior High   ",1,0,1,0.00
+0,2,1,1,50.00
+"White House High School",27,26,1,96.30
+"Santa Fe High School",2,1,1,50.00
+"Red Boiling Springs Hs",18,17,1,94.44
+"Northwest High School",4,3,1,75.00
+"Adamsville High School",4,3,1,75.00
+"Clark County R-1 High School",1,0,1,0.00
+"Rockwood High School",6,5,1,83.33
+"Brighton High School          ",1,0,1,0.00
+"Sacred Heart Of Jesus Hs",2,1,1,50.00
+"Grainger High School",7,6,1,85.71
+"Christian Community High Sch",10,9,1,90.00
+"Academy at Hickory Hollow",2,1,1,50.00
+"Franklin Christian Academy",7,6,1,85.71
+"Unaka High School",3,2,1,66.67
+"Dos Pueblos High School       ",1,0,1,0.00
+"Mountain Education Center Hs",1,0,1,0.00
+"CAK Homeschool",3,2,1,66.67
+"Kings Academy",3,2,1,66.67
+"Claiborne High School",2,1,1,50.00
+"Winder Barrow High School     ",2,1,1,50.00
+"Saint Vincent Pallotti HS     ",1,0,1,0.00
+"Greencastle High School       ",1,0,1,0.00
+"McCreary Central High School  ",1,0,1,0.00
+"Tr Robinson High School       ",1,0,1,0.00
+"Bassfield High School",1,0,1,0.00
+"South Broward High School     ",1,0,1,0.00
+"Urbana High School",1,0,1,0.00
+"Clayton Valley High School",1,0,1,0.00
+"Heritage Academy",3,2,1,66.67
+"Patriot High School",1,0,1,0.00
+"Jellico High School",3,2,1,66.67
+"Lookout Valley High School",2,1,1,50.00
+"Rick Reedy High Schoo.",1,0,1,0.00
+"Jackson Christian School",1,0,1,0.00
+"F C Boyd Christian School",2,1,1,50.00
+"Valley Academy",1,0,1,0.00
+"James Madison High School",2,1,1,50.00
+"Brainerd High School",1,0,1,0.00
+"Culleoka High School",3,2,1,66.67
+"Luverne High School           ",1,0,1,0.00
+"Benjamin E Mays High School   ",1,0,1,0.00
+"Cabool High School",1,0,1,0.00
+"Timber Creek High School      ",1,0,1,0.00
+"Rocky Point High School",1,0,1,0.00
+"Tahquitz High School",1,0,1,0.00
+"Vibgyor High School",1,0,1,0.00
+"Jefferson City High School",1,0,1,0.00
+"Cordova High School",2,1,1,50.00
+"Pawhuska High School",1,0,1,0.00
+"Dyersburg High School",3,2,1,66.67
+"Dewey High School",1,0,1,0.00
+"Pace High School              ",1,0,1,0.00
+"William Amos Hough High School",1,0,1,0.00
+"Madison Southern High School  ",1,0,1,0.00
+"Chance Transitional School",1,0,1,0.00
+"North Central High School     ",1,0,1,0.00
+"Century High School",1,0,1,0.00
+"Murrieta Mesa High School",1,0,1,0.00
+"Bishop Union High School",1,0,1,0.00
+"Morris Wilson Campus School",1,0,1,0.00
+"Taylor'S College              ",1,0,1,0.00
+"Newport Middle High School",1,0,1,0.00
+"Kanyawanga High School",1,0,1,0.00
+"Bilimkana-AUCA High School",1,0,1,0.00
+"Gujarat Sec & Higher Sec Ed",4,3,1,75.00
+"GLM International School",1,0,1,0.00
+"Lycee Al-Horreya De Bab El-Lou",1,0,1,0.00
+"E-Gimnazija Grammar School",1,0,1,0.00
+"Moore County High School",17,17,0,100.00
+"Family Christian Academy",5,5,0,100.00
+"Richland High School",3,3,0,100.00
+"Powell High School",6,6,0,100.00
+"Lenoir City High School",42,42,0,100.00
+"Davidson Academy",12,12,0,100.00
+"Union City High School",2,2,0,100.00
+"Hillsboro High School",8,8,0,100.00
+"Seton Home Study School       ",2,2,0,100.00
+"Daniel Boone High School",17,17,0,100.00
+"Aaron Academy",23,23,0,100.00
+"Milan High School",4,4,0,100.00
+"Liberty Technology Magnet Hs",2,2,0,100.00
+"Cane Ridge High School",6,6,0,100.00
+"University School Of Jackson",4,4,0,100.00
+"Knoxville Christian School",6,6,0,100.00
+"Harriman High School",4,4,0,100.00
+"Grace Christian Acad",1,1,0,100.00
+"Madison Academic Magnet Hs",18,18,0,100.00
+"University School",2,2,0,100.00
+"Seymour High School",6,6,0,100.00
+"Houston County High School",7,7,0,100.00
+"Pleasant View Christian School",5,5,0,100.00
+"Shanghai Datong High School",1,1,0,100.00
+"Christ Our Rock Lutheran Hs",1,1,0,100.00
+"Covenant Academy",5,5,0,100.00
+"KIPP Nashville Collegiate HS",2,2,0,100.00
+"Boyd-Buchanan School",31,31,0,100.00
+"Branson High School           ",1,1,0,100.00
+"South Greene High School",3,3,0,100.00
+"Ooltewah High School",16,16,0,100.00
+"Wayne County High School",2,2,0,100.00
+"Zion Christian Academy",8,8,0,100.00
+"Shelbyville Central High Sch",11,11,0,100.00
+"Cascade High School",6,6,0,100.00
+"Hillwood Comprehensive Hs",12,12,0,100.00
+"South Doyle High School",4,4,0,100.00
+"Sevier County High School",6,6,0,100.00
+"Gleason High School",1,1,0,100.00
+"Northview Academy",5,5,0,100.00
+"Greenback High School",3,3,0,100.00
+"Greeneville High School",10,10,0,100.00
+"Coalfield High School",7,7,0,100.00
+"Chattanooga Hs Ctr Creative Ar",7,7,0,100.00
+"Hickman County High School",4,4,0,100.00
+"Community High School",4,4,0,100.00
+"Peachtree High School         ",1,1,0,100.00
+"Hampshire Unit School",1,1,0,100.00
+"Fayetteville High School",9,9,0,100.00
+"McEwen High School",4,4,0,100.00
+"South Pittsburg High School",2,2,0,100.00
+"Owensboro Cath High School    ",1,1,0,100.00
+"Cumberland Co High School     ",2,2,0,100.00
+"Whitwell High School",11,11,0,100.00
+"Bartlett High School",18,18,0,100.00
+"Halls High School",19,19,0,100.00
+"East Hamilton School",13,13,0,100.00
+"Fairview High School",10,10,0,100.00
+"Gordon Lee High School        ",2,2,0,100.00
+"Loretto High School",2,2,0,100.00
+"Hampton High School",3,3,0,100.00
+"Ezell Harding Christian School",9,9,0,100.00
+"Nashville Christian School",7,7,0,100.00
+"Hueytown High School          ",1,1,0,100.00
+"Yorkville High School         ",1,1,0,100.00
+"Huntsville High School        ",1,1,0,100.00
+"Buckhorn High School          ",1,1,0,100.00
+"Dayspring Academy",3,3,0,100.00
+"Saint Benedict School",1,1,0,100.00
+"Columbus Christian Academy",1,1,0,100.00
+"McKenzie High School",2,2,0,100.00
+"Lighthouse Christian School",3,3,0,100.00
+"Dyer County High School",7,7,0,100.00
+"Pope John Paul II High School",7,7,0,100.00
+"Comenius School.",2,2,0,100.00
+"Miss Sch For Math & Sciences  ",1,1,0,100.00
+"Ripley High School",1,1,0,100.00
+"Miyamura High School",1,1,0,100.00
+"Tennessee High School",3,3,0,100.00
+"Oliver Springs High School",15,15,0,100.00
+"Thomas Jefferson High School",1,1,0,100.00
+"Fayette Academy",1,1,0,100.00
+"Stratford High School",8,8,0,100.00
+"Girls Preparatory School",3,3,0,100.00
+"Cass Technical High School    ",2,2,0,100.00
+"Cheatham County High School",9,9,0,100.00
+"Lancaster Christian Academy",2,2,0,100.00
+"Grace Christian Academy",6,6,0,100.00
+"Concord High School           ",1,1,0,100.00
+"Germantown High School",1,1,0,100.00
+"Crockett County High School",6,6,0,100.00
+"Allatoona High School",1,1,0,100.00
+"LEAD Academy High School",3,3,0,100.00
+"South Forsyth High School     ",1,1,0,100.00
+"Nelson County High School     ",2,2,0,100.00
+"Brookwood High School         ",1,1,0,100.00
+"Summertown High School",3,3,0,100.00
+"Collierville High School",2,2,0,100.00
+"Battlefield High School",1,1,0,100.00
+"Christian Brothers High School",8,8,0,100.00
+"Montgomery Central High School",7,7,0,100.00
+"Berean Academy",1,1,0,100.00
+"Ivy Academy",2,2,0,100.00
+"Los Osos",1,1,0,100.00
+"Providence Christian Academy",6,6,0,100.00
+"Collinwood High School",5,5,0,100.00
+"Hardin County High School",3,3,0,100.00
+"Perry County High School",10,10,0,100.00
+"Howard School Academics & Tech",2,2,0,100.00
+"Northwest Whitfield Co High   ",1,1,0,100.00
+"Columbia Academy",10,10,0,100.00
+"Lakeside High School          ",2,2,0,100.00
+"Sachem High School East",1,1,0,100.00
+"McCallie School",6,6,0,100.00
+"Sweetwater High School",6,6,0,100.00
+"Soulsville Charter School",6,6,0,100.00
+"Scottsboro High School        ",1,1,0,100.00
+"Christian Academy Of Knoxville",4,4,0,100.00
+"Dwight D Eisenhower High Schoo",1,1,0,100.00
+"Carter High School",5,5,0,100.00
+"Campbell County Comprehen Hs",6,6,0,100.00
+"Tennessee Online Public School",2,2,0,100.00
+"Silverdale Baptist Academy",1,1,0,100.00
+"Bloomington High School North",1,1,0,100.00
+"North Atlanta High School     ",1,1,0,100.00
+"Highland Rim Academy",11,11,0,100.00
+"Stewart County High School",4,4,0,100.00
+"Blue Springs South High School",1,1,0,100.00
+"Cocke County High School",3,3,0,100.00
+"Elbert County High School     ",1,1,0,100.00
+"Cedar Shoals High School      ",2,2,0,100.00
+"Notre Dame-Bishop Gibbons Sch",1,1,0,100.00
+"Southwest Dekalb              ",1,1,0,100.00
+"Dunwoody High School          ",1,1,0,100.00
+"McNairy Central High School",3,3,0,100.00
+"Jefferson High School         ",1,1,0,100.00
+"Carthage Central High School",1,1,0,100.00
+"Gateway Christian Academy",1,1,0,100.00
+"Secaucus High School",1,1,0,100.00
+"Triad High School",1,1,0,100.00
+"Scott County Senior High Schoo",1,1,0,100.00
+"Wilson County Adult Hs",2,2,0,100.00
+"East Hickman High School",5,5,0,100.00
+"Riverside High School         ",1,1,0,100.00
+"Seminole Ridge High School",1,1,0,100.00
+"Northview High School         ",1,1,0,100.00
+"Saint Louis De Gonzague",2,2,0,100.00
+"Woodstock High School         ",1,1,0,100.00
+"Headland High School          ",1,1,0,100.00
+"Haverling High School         ",1,1,0,100.00
+"Home Schooled Student",7,7,0,100.00
+"Crete Monee High School       ",1,1,0,100.00
+"Hamilton Co Coll High Chatt St",1,1,0,100.00
+"Maristes Monterrat",1,1,0,100.00
+"Massey Hill Classical High Sch",1,1,0,100.00
+"East Nashville Magnet School",4,4,0,100.00
+"Porter RIdge High School      ",1,1,0,100.00
+"Mose Vines Preparation Acad",1,1,0,100.00
+"Loganville High School        ",1,1,0,100.00
+"Putnam County Adult High Sch",1,1,0,100.00
+"Wayne County High School      ",1,1,0,100.00
+"Sullivan East High School",6,6,0,100.00
+"De Beque High School          ",1,1,0,100.00
+"Cumberland Gap High School",2,2,0,100.00
+"Mountain Range High School",1,1,0,100.00
+"Eastlake High School          ",1,1,0,100.00
+"Hartselle High School         ",1,1,0,100.00
+"Elizabethtown Sr High School  ",1,1,0,100.00
+"Mattawan High School          ",1,1,0,100.00
+"Al Dhafra Private Schools",1,1,0,100.00
+"Chelsea High School           ",2,2,0,100.00
+"Huntingdon High School",4,4,0,100.00
+"Cudahy High School",2,2,0,100.00
+"Dutchtown High School",1,1,0,100.00
+"Turpin High School",1,1,0,100.00
+"Myers Park High School        ",1,1,0,100.00
+"Lewis County High School",7,7,0,100.00
+"The Ogburn School Inc",2,2,0,100.00
+"Hume-Fogg Academic High School",21,21,0,100.00
+"Gadsden High School           ",1,1,0,100.00
+"Riverside High School",4,4,0,100.00
+"Jo Byrns High School",5,5,0,100.00
+"Assumption High School        ",1,1,0,100.00
+"Haleyville High School        ",1,1,0,100.00
+"Providence Academy",4,4,0,100.00
+"Sebring High School           ",1,1,0,100.00
+"Hampden Academy               ",1,1,0,100.00
+"Abeka Academy",2,2,0,100.00
+"Deerfield-Windsor School",1,1,0,100.00
+"Lincoln High School           ",1,1,0,100.00
+"North Hall High School        ",1,1,0,100.00
+"Edwardsville High School      ",1,1,0,100.00
+"Hononegah Comm High School",1,1,0,100.00
+"Howard High School            ",1,1,0,100.00
+"Morristown Hamblen East High",5,5,0,100.00
+"Warren Hills Regional         ",1,1,0,100.00
+"Wade Hampton High School",1,1,0,100.00
+"Oak Hill Academy              ",1,1,0,100.00
+"Gibbs High School",8,8,0,100.00
+"Macon Christian Academy",1,1,0,100.00
+"Lexington Christian Academy   ",1,1,0,100.00
+"Buford High School            ",1,1,0,100.00
+"Athens High School            ",1,1,0,100.00
+"Brentwood Academy",1,1,0,100.00
+"Glen Allen High School",1,1,0,100.00
+"Lambert High School",1,1,0,100.00
+"Humboldt High School",4,4,0,100.00
+"Webb School Of Knoxville",3,3,0,100.00
+"Trinity Christian Academy",4,4,0,100.00
+"Keen Mountain Christian Acad",1,1,0,100.00
+"West High School",5,5,0,100.00
+"Decatur High School           ",2,2,0,100.00
+"South Paulding High School",1,1,0,100.00
+"First Assembly Christian Sch",1,1,0,100.00
+"The Phoenix School",1,1,0,100.00
+"Sailaway Learning and Academy",2,2,0,100.00
+"Portage Central High School",1,1,0,100.00
+"Canyon Crest Academy",1,1,0,100.00
+"Covington High School",6,6,0,100.00
+"Lockport High School          ",1,1,0,100.00
+"Clarksville Academy",4,4,0,100.00
+"North Oconee High School",1,1,0,100.00
+"Abingdon High School          ",1,1,0,100.00
+"Oasis International School",1,1,0,100.00
+"Saint Pius X High School",1,1,0,100.00
+"Kings High School             ",1,1,0,100.00
+"Aurora West High School       ",1,1,0,100.00
+"P D Jackson-Olin High School  ",1,1,0,100.00
+"East High School",1,1,0,100.00
+"Marian Catholic High School   ",1,1,0,100.00
+"Bonny Eagle High School       ",1,1,0,100.00
+"Tennessee Christian Academy",1,1,0,100.00
+"Weaver High School            ",1,1,0,100.00
+"Baker High School             ",1,1,0,100.00
+"Clayton-Bradley Academy",3,3,0,100.00
+"Cagaloglu High School",1,1,0,100.00
+"New Hope Academy",2,2,0,100.00
+"Rockledge High School         ",1,1,0,100.00
+"Henry County High School",5,5,0,100.00
+"Jackson Memorial High School  ",1,1,0,100.00
+"Woodrow Wilson High School",1,1,0,100.00
+"Boaz High School              ",1,1,0,100.00
+"Brooks High School            ",1,1,0,100.00
+"Apalachee High School",2,2,0,100.00
+"Roswell High School           ",2,2,0,100.00
+"Greenville High School        ",1,1,0,100.00
+"North Paulding High School",1,1,0,100.00
+"Sidney Lanier High School     ",1,1,0,100.00
+"Thompson High School          ",1,1,0,100.00
+"Colquitt County High School   ",1,1,0,100.00
+"Christian Acad of Cumberlands",2,2,0,100.00
+"Nashville Big Picture HS",4,4,0,100.00
+"Riverdale Baptist School",1,1,0,100.00
+"West Forsyth High School",2,2,0,100.00
+"W T Woodson High School       ",1,1,0,100.00
+"Middle College Austin Peay",6,6,0,100.00
+"Space Coast Junior/senior Hs",1,1,0,100.00
+"North Marion High School      ",1,1,0,100.00
+"East Limestone High School    ",1,1,0,100.00
+"Madisonville North Hopkins H S",1,1,0,100.00
+"Escambia High School          ",2,2,0,100.00
+"Baldwin Prep School",1,1,0,100.00
+"American Heritage Sch Plantatn",1,1,0,100.00
+"Magnolia High School",1,1,0,100.00
+"Istituto Statale Marco Belli",1,1,0,100.00
+"Union Grove High School       ",1,1,0,100.00
+"Arabia Mountain High School",1,1,0,100.00
+"Russellville High School      ",1,1,0,100.00
+"Palm Harbor Univ High School",1,1,0,100.00
+"Gateway Academy Brentwood",1,1,0,100.00
+"Green Hill High School",17,17,0,100.00
+"Chatt Girls Leadership Acad",3,3,0,100.00
+"First Baptist Academy",1,1,0,100.00
+"Airline High School           ",1,1,0,100.00
+"Baldwyn High School           ",1,1,0,100.00
+"Althoff Catholic High School",1,1,0,100.00
+"Union County High School",9,9,0,100.00
+"Redeemer Classical Academy",1,1,0,100.00
+"Saint Andrews-Sewanee School",5,5,0,100.00
+"Kirtland High School",1,1,0,100.00
+"Laurel Springs School",1,1,0,100.00
+"Nesbitt Discovery Academy",1,1,0,100.00
+"Waterford Union High School",1,1,0,100.00
+"Bowling Green High School     ",1,1,0,100.00
+"McGehee High School",1,1,0,100.00
+"East Jessamine High School",1,1,0,100.00
+"Franklin Classical School",2,2,0,100.00
+"Batavia High School           ",1,1,0,100.00
+"Concord Christian School",2,2,0,100.00
+"John Carroll High School      ",1,1,0,100.00
+"Craigmont High School",1,1,0,100.00
+"Christ's Legacy Academy",1,1,0,100.00
+"Overton High School",2,2,0,100.00
+"Intrepid Coll Prep Independ",3,3,0,100.00
+"Gibson County High School",2,2,0,100.00
+"Warren Woods Tower High School",1,1,0,100.00
+"Xavier High School",1,1,0,100.00
+"Clermont Northeastern         ",1,1,0,100.00
+"Kettle Moraine High School    ",1,1,0,100.00
+"Carson High School",1,1,0,100.00
+"FAYETTE COUNTY HIGH SCHOOL",1,1,0,100.00
+"Northwood High School",1,1,0,100.00
+"Bullard High School",1,1,0,100.00
+"William & Reed Academy",1,1,0,100.00
+"Connections Academy",1,1,0,100.00
+"Maryville Christian School",2,2,0,100.00
+"West Texas High School",1,1,0,100.00
+"Canon-McMillan Hs             ",1,1,0,100.00
+"Richard Hardy Memorial School",5,5,0,100.00
+"Wauwatosa East High School",1,1,0,100.00
+Connections,1,1,0,100.00
+"International Sch Of Choueifat",1,1,0,100.00
+"Bellbrook High School         ",1,1,0,100.00
+"James Buchanan High School",1,1,0,100.00
+"Plymouth-Salem High School    ",1,1,0,100.00
+"Prairie Ridge High School",3,3,0,100.00
+"Middle College HS Memphis",2,2,0,100.00
+"Franklin Road Academy",3,3,0,100.00
+"North Broward School",1,1,0,100.00
+"Berean Baptist Academy",1,1,0,100.00
+"East Lyme High School         ",1,1,0,100.00
+"Horizon High School",1,1,0,100.00
+"Jakarta International School  ",1,1,0,100.00
+"Peoria Christian",1,1,0,100.00
+"St Mary High School           ",1,1,0,100.00
+"Carlsbad High School          ",1,1,0,100.00
+"Universidad Autonoma del Nores",1,1,0,100.00
+"Happy Valley High School",3,3,0,100.00
+"Ocean Township High School",1,1,0,100.00
+"Wilmington High School",1,1,0,100.00
+"Heritage International School",1,1,0,100.00
+"Mountain View Christian Acad",1,1,0,100.00
+"Millington Central High School",1,1,0,100.00
+"Starfield College",2,2,0,100.00
+"Newark Valley High School",1,1,0,100.00
+"Triangle Math and Science Acad",1,1,0,100.00
+"Hamilton Heights High School  ",1,1,0,100.00
+"Mead Senior High school       ",1,1,0,100.00
+"Ronald Reagan High School",1,1,0,100.00
+"Saint Thomas More Academy",1,1,0,100.00
+"Scotts Hill High School",1,1,0,100.00
+"Denmark High School",1,1,0,100.00
+"Mercer Co High School         ",1,1,0,100.00
+"West Creek High School",2,2,0,100.00
+"Basha High School",1,1,0,100.00
+"Serrano High School           ",1,1,0,100.00
+"Judah Christian High School",1,1,0,100.00
+"Collins Hill High School      ",2,2,0,100.00
+"Urbane College",1,1,0,100.00
+"Holloway Vo-Tech High School",1,1,0,100.00
+"Holy Trinity Episcopal Academy",1,1,0,100.00
+"Dutch Fork High School",1,1,0,100.00
+"Lausanne Collegiate School",1,1,0,100.00
+"Camden High School            ",1,1,0,100.00
+"Elk Grove High School         ",2,2,0,100.00
+"Archangel School",1,1,0,100.00
+"Colonial Forge High School    ",1,1,0,100.00
+"Monroe County High School     ",1,1,0,100.00
+"West Jessamine High School    ",2,2,0,100.00
+"Gloucester Catholic High Schoo",1,1,0,100.00
+"West Anchorage High School    ",1,1,0,100.00
+"International School Of Manila",1,1,0,100.00
+"Cumberland Valley High School ",1,1,0,100.00
+"Brentsville Dist Mid-Senior Hs",1,1,0,100.00
+"Homelife Academy",8,8,0,100.00
+"Haywood High School",2,2,0,100.00
+"Rogers High School            ",1,1,0,100.00
+"Ardmore High School           ",1,1,0,100.00
+"Lake Placid High School       ",1,1,0,100.00
+"IMG Academy",1,1,0,100.00
+"Edgewood High School",1,1,0,100.00
+"Greenfield High School",1,1,0,100.00
+"Polk County High School",2,2,0,100.00
+"White Station High School",1,1,0,100.00
+"South Warren High School",2,2,0,100.00
+"Waukesha South High School",1,1,0,100.00
+"William T Dwyer Comm High Scho",1,1,0,100.00
+"Gilbert High School",1,1,0,100.00
+"Saint Charles West High School",1,1,0,100.00
+"Agathos Classical School",2,2,0,100.00
+"Family Christian Acad East TN",1,1,0,100.00
+"Cross Creek Christian School",1,1,0,100.00
+"South Side High School",1,1,0,100.00
+"Franklin Community High School",1,1,0,100.00
+"Maple Grove High School       ",1,1,0,100.00
+"Jackson High School           ",1,1,0,100.00
+"Pine Island High School",1,1,0,100.00
+"Lafayette High School         ",1,1,0,100.00
+"Lincoln-Way Comm High School  ",1,1,0,100.00
+"Neuqua Valley High School",1,1,0,100.00
+"Christian Cottage School",1,1,0,100.00
+"Acellus Academy",1,1,0,100.00
+"Central Acad Technology Arts",1,1,0,100.00
+"Our Savior New American School",1,1,0,100.00
+"Coronado High School",1,1,0,100.00
+"Benjamin Franklin High School ",1,1,0,100.00
+"Oak Creek-Franklin High School",1,1,0,100.00
+"Mount Zion High School",1,1,0,100.00
+"Walter Panas High School",1,1,0,100.00
+"Leesville High School         ",1,1,0,100.00
+"Union Co High School          ",1,1,0,100.00
+"Mt Airy High School           ",1,1,0,100.00
+"Tennessee Connections Academy",1,1,0,100.00
+"St Edward High School         ",1,1,0,100.00
+"Stratford Academy             ",1,1,0,100.00
+"Alan C Pope High School       ",1,1,0,100.00
+"Valor Collegiate Academy",1,1,0,100.00
+"Alpha Omega Academy",1,1,0,100.00
+"Spencer County High School    ",1,1,0,100.00
+"Herron High School",1,1,0,100.00
+"Harding Academy Of Memphis",2,2,0,100.00
+"Bolivar Central High School",2,2,0,100.00
+"Milton High School",1,1,0,100.00
+"Frank Hughes High School",2,2,0,100.00
+"Christ Presbyterian Academy",1,1,0,100.00
+"Muscle Shoals High School     ",1,1,0,100.00
+"Milford High School           ",1,1,0,100.00
+"Faith Heritage Christian Acad",2,2,0,100.00
+"Lafayette Sr High School      ",1,1,0,100.00
+"Battle Ground Academy",2,2,0,100.00
+"Wright City High School       ",1,1,0,100.00
+"Liberty University Online Acad",2,2,0,100.00
+"United Christian Academy",2,2,0,100.00
+"Blue Ridge High School        ",1,1,0,100.00
+"James Clemens High School",1,1,0,100.00
+"West Ridge High School",3,3,0,100.00
+"Franklin County High School   ",1,1,0,100.00
+"Seaway District High School",1,1,0,100.00
+"Louisville High School        ",1,1,0,100.00
+"Opp High School               ",1,1,0,100.00
+"Hampshire High School         ",1,1,0,100.00
+"Westview High School",1,1,0,100.00
+"Wilson High School            ",1,1,0,100.00
+"Vanguard Virtual High School",1,1,0,100.00
+"Chesapeake Science Point PCS",1,1,0,100.00
+"Carmel High School            ",1,1,0,100.00
+"Cathedral Catholic High School",1,1,0,100.00
+"Arbor View High School",1,1,0,100.00
+"Greenbrier High School        ",1,1,0,100.00
+"Lyman High School             ",1,1,0,100.00
+"Downers Grove Comm H S South  ",1,1,0,100.00
+"John S Battle High School     ",2,2,0,100.00
+"Saint Cecilia Academy",1,1,0,100.00
+"Sanford H Calhoun High School",1,1,0,100.00
+"Rio Americano High School     ",1,1,0,100.00
+"Free Will Baptist School",1,1,0,100.00
+"Fulton High School",3,3,0,100.00
+"Quabbin Regional Mid/high Sch",1,1,0,100.00
+"Cardinal Gibbons Meml Hs      ",1,1,0,100.00
+"Springfield High School       ",1,1,0,100.00
+"Lake Minneola High School",1,1,0,100.00
+"Career Magnet Academy",1,1,0,100.00
+"Pembroke Pines Charter Hs",1,1,0,100.00
+"Turlock High School",1,1,0,100.00
+"Bay Haven Charter Academy",1,1,0,100.00
+"Vinal Technical High School",1,1,0,100.00
+"Woodland High School",1,1,0,100.00
+"Solon High School",1,1,0,100.00
+"La Grange High School         ",1,1,0,100.00
+"Valdosta High School          ",2,2,0,100.00
+"Colegio Inmaculada Concepcion",1,1,0,100.00
+"Mill River Union High School",1,1,0,100.00
+"Martha Layne Collins High Sch",1,1,0,100.00
+"King George High School       ",1,1,0,100.00
+"Newfield High School          ",2,2,0,100.00
+"Briarcrest Christian School",1,1,0,100.00
+"Pocahontas Area School",1,1,0,100.00
+"Milton High School            ",1,1,0,100.00
+"Putnam Co High School         ",1,1,0,100.00
+"Rockvale High School          ",1,1,0,100.00
+"Campion College",1,1,0,100.00
+"Lowndes High School           ",1,1,0,100.00
+"McEachern High School         ",1,1,0,100.00
+"Baltimore City College",1,1,0,100.00
+"J Serra High School",1,1,0,100.00
+"Eagles Landing High School    ",1,1,0,100.00
+"Tattnall Co High School       ",1,1,0,100.00
+"Ledgemont High School",1,1,0,100.00
+"Charlotte Catholic High School",1,1,0,100.00
+"Southwestern Central Hs",1,1,0,100.00
+"Ministry Of Education",2,2,0,100.00
+"Kenwood High",1,1,0,100.00
+"Bradford High School",1,1,0,100.00
+"Whitehaven High School",1,1,0,100.00
+"Madison Academy",1,1,0,100.00
+"Homewood High School",1,1,0,100.00
+"Dahlske Videregaende Skole",2,2,0,100.00
+"Academia Americana",1,1,0,100.00
+"Eastern High School           ",1,1,0,100.00
+"Imperial School",1,1,0,100.00
+"Princess Chulabhorn College",2,2,0,100.00
+"Yakumo Academy Sr High Sch",1,1,0,100.00
+"21st Secondary School Makkah",1,1,0,100.00
+"Benton High School            ",1,1,0,100.00
+"Clay Chalkville High School   ",1,1,0,100.00
+"Rabun Gap-Nacoochee High Schoo",1,1,0,100.00
+"Nativity Bvm High School",1,1,0,100.00
+"Pierce County High School     ",1,1,0,100.00
+"Johns Creek High School",1,1,0,100.00
+"North Cobb High School        ",1,1,0,100.00
+"Delhi Public School",1,1,0,100.00
+"Ajyal Al Khafji Private Sec Sc",1,1,0,100.00
+"British West Indies Collegiate",1,1,0,100.00
+"St Mary's Kibuk GIrls Sec Sch",1,1,0,100.00
+"Kapkoros Girls Secondary Sch",1,1,0,100.00
+"Neil McNeil High School",1,1,0,100.00
+"Gen Org for Tech Ed/Voc Trng",4,4,0,100.00
+"Nadderud Videregaende Skole",1,1,0,100.00
+"Pham Phu Thu High School",1,1,0,100.00
+"Eaton High School",1,1,0,100.00
+"Gymnasium Am Stefansberg",1,1,0,100.00
+"Aldhaid Sec School for Boys",1,1,0,100.00
+"Al-Tawien Boys' School",1,1,0,100.00
+"College de Montreal",1,1,0,100.00
+"Escola Secundaria Pedro Nunes",1,1,0,100.00
+"Thetsaban 6 Udon Thani City HS",1,1,0,100.00
+"Phan Boi Chau HS for Gifted",1,1,0,100.00
+"Grace Academy",1,1,0,100.00
+"Escuela Cristiana Bilingue Sun",1,1,0,100.00
+"St Colman's College Newry",1,1,0,100.00
+"Milestone College",1,1,0,100.00
+"Aichi Prefectural Kariya N HS",1,1,0,100.00
+"Stockholms Idrottsgymnasium",1,1,0,100.00
+"Broadfording Christian Academy",1,1,0,100.00
+"Great Panaf Schools",1,1,0,100.00
+"Jumeira Baccalaureate School",1,1,0,100.00
+"Gainesville High School       ",1,1,0,100.00
+"High Achievers Coach Intl Acad",1,1,0,100.00
+"Tapasya Integrated School",1,1,0,100.00
+"Incheon Daegeon High School",1,1,0,100.00
+"Cocoa High School             ",1,1,0,100.00
+"Scoil Mhuire Trim",1,1,0,100.00
+"Punjab School Education Board",1,1,0,100.00
+"St Ursula Eichi High School",1,1,0,100.00
+"Rene Descartes High School",1,1,0,100.00
+"Teays Valley Christian School",1,1,0,100.00
