@@ -1,0 +1,788 @@
+HighSchool,Count,HSGPA,ColGPA,difGPA
+"Cookeville High School",490,3.71,2.82,0.89
+"Upperman High School",172,3.73,2.48,1.24
+"White County High School",157,3.63,2.66,0.97
+"Livingston Academy",144,3.73,2.96,0.77
+"Warren County High School",118,3.75,2.71,1.04
+"Lebanon High School",108,3.73,2.50,1.23
+"Stone Memorial High School",99,3.75,2.79,0.96
+"Wilson Central High School",94,3.72,2.91,0.82
+"Mount Juliet High School",94,3.77,2.90,0.87
+"Cumberland County High School",90,3.73,2.54,1.19
+"DeKalb County High School",80,3.88,2.70,1.18
+"Maryville High School",63,3.60,2.95,0.65
+"Stewarts Creek High School",62,3.64,2.65,0.99
+"Coffee County Central Hs",61,3.72,2.60,1.13
+"Summit High School",60,3.58,2.57,1.01
+"Macon County High School",56,3.73,2.71,1.02
+"Independence High School",56,3.72,2.88,0.84
+"Station Camp High School",54,3.66,3.08,0.58
+"Dickson County High School",54,3.63,2.89,0.73
+"York Institute",54,3.77,2.79,0.98
+"Monterey High School",52,3.53,2.67,0.86
+"Home Life Academy",52,3.75,3.23,0.52
+"Jackson County High School",51,3.44,2.35,1.09
+"Hendersonville High School",51,3.49,3.03,0.47
+"Sequatchie County High School",45,3.50,2.63,0.87
+"Blackman High School",43,3.29,2.64,0.66
+"Gordonsville High School",43,3.63,2.90,0.74
+"Lenoir City High School",42,3.67,3.28,0.39
+"Oakland High School",42,3.36,2.71,0.66
+"Smith County High School",41,3.61,3.00,0.61
+"Beech High School",41,3.59,3.04,0.55
+"Hardin Valley Academy",41,3.68,3.09,0.59
+"Franklin County High School",40,3.75,3.06,0.70
+"Clay County High School",38,3.86,3.05,0.81
+"McGavock High School",38,3.47,2.59,0.87
+"Nolensville High School",38,3.54,2.40,1.15
+"Anderson County High School",37,3.78,3.00,0.78
+"Pickett County High School",37,3.71,3.24,0.47
+"Fred J Page High School",37,3.67,2.87,0.79
+"Franklin High School",36,3.68,2.81,0.87
+"Walker Valley High School",36,3.62,2.54,1.08
+"Portland Senior High School",36,3.67,3.01,0.66
+"William Blount High School",35,3.63,3.11,0.53
+"Martin Luther King High Magnet",35,3.47,2.94,0.53
+"Bearden High School",34,3.65,3.01,0.64
+"Central Magnet School",34,3.51,2.72,0.79
+"Harpeth High School",34,3.48,2.72,0.75
+"Clarkrange High School",33,3.75,2.27,1.48
+"Oak Ridge High School",33,3.41,2.37,1.05
+"Trousdale County High School",32,3.64,2.92,0.72
+"Daniel 1 Academy",31,3.73,3.35,0.38
+"Siegel High School",31,3.56,2.83,0.73
+"Boyd-Buchanan School",31,3.69,3.51,0.18
+"Centennial High School",30,3.63,2.91,0.73
+"Riverdale High School",30,3.56,2.94,0.61
+"Farragut High School",30,3.55,3.14,0.42
+"Gallatin High School",29,3.51,2.45,1.06
+"Smyrna High School",29,3.62,2.83,0.79
+"Ravenwood High School",29,3.63,2.95,0.68
+"Sycamore High School",28,3.77,3.01,0.76
+"Tullahoma High School",28,3.67,2.66,1.01
+"Soddy-Daisy High School",28,3.74,2.96,0.78
+"Central High School",28,3.63,2.94,0.69
+"Cleveland High School",27,3.67,3.02,0.65
+"White House Heritage School",27,3.64,2.86,0.79
+"White House High School",27,3.65,2.96,0.69
+"Van Buren County High School",26,3.96,3.16,0.80
+"Creek Wood High School",26,3.73,2.64,1.09
+"John Overton Comprehensive Hs",26,3.69,2.84,0.85
+"Watertown High School",25,3.79,2.87,0.92
+"Grundy County High School",25,3.58,2.67,0.91
+"Marshall County High School",25,3.84,2.61,1.23
+"Lavergne High School",25,3.50,2.20,1.29
+"Father Ryan High School",24,3.39,2.78,0.61
+"Friendship Christian School",23,3.60,3.00,0.60
+"Jefferson County High School",23,3.78,2.76,1.02
+"Aaron Academy",23,3.71,2.96,0.74
+"Bledsoe County High School",23,3.65,2.40,1.25
+"Sequoyah High School",22,3.66,2.60,1.07
+"Loudon High School",21,3.78,3.18,0.60
+"Scott High School",21,3.70,2.54,1.16
+"Heritage High School",21,3.73,3.00,0.73
+"Hume-Fogg Academic High School",21,3.50,2.67,0.83
+"Bradley Central High School",20,3.58,2.57,1.01
+"Cannon County High School",20,3.53,2.29,1.24
+"Lexington High School",20,3.73,2.72,1.00
+"Clinton High School",19,3.68,2.61,1.06
+"Spring Hill High School",19,3.47,2.82,0.64
+"Science Hill High School",19,3.60,3.04,0.56
+"Rhea County High School",19,3.67,2.58,1.09
+"Halls High School",19,3.73,3.29,0.45
+"Dobyns Bennett High School",19,3.35,2.53,0.82
+"Hixson High School",19,3.61,2.44,1.17
+"Roane County High School",19,3.63,2.75,0.89
+"Columbia Central High School",18,3.66,2.93,0.73
+"Oneida High School",18,3.64,2.74,0.90
+"South Gibson County HS",18,3.73,2.73,1.00
+"Madison Academic Magnet Hs",18,3.65,3.45,0.19
+"Chattanooga Christian School",18,3.53,3.18,0.35
+"Huntland High School",18,3.88,2.71,1.16
+"Springfield High School",18,3.58,2.57,1.01
+"Bartlett High School",18,3.64,2.52,1.13
+"Karns High School",18,3.83,3.06,0.78
+"Red Boiling Springs Hs",18,3.80,3.01,0.80
+"Moore County High School",17,3.77,3.44,0.33
+"Heritage Christian Academy",17,3.89,3.63,0.25
+"Daniel Boone High School",17,3.69,2.85,0.84
+"Antioch High School",17,3.29,2.42,0.88
+"Brentwood High School",17,3.71,2.66,1.05
+"Meigs County High School",17,3.66,3.02,0.63
+"Green Hill High School",17,3.89,2.96,0.92
+"Goodpasture Christian School",16,3.72,3.07,0.65
+"Kenwood High School",16,3.74,2.69,1.05
+"Ooltewah High School",16,3.40,2.70,0.70
+"Middle Tennessee Christian Sch",16,3.72,3.15,0.57
+"Mount Juliet Christian Academy",15,3.61,2.84,0.77
+"Clarksville High School",15,3.52,2.83,0.69
+"Lincoln County High School",15,3.89,3.38,0.51
+"Oliver Springs High School",15,3.71,3.07,0.64
+"Rockvale High School",15,3.50,2.54,0.96
+"Gateway Christian Schools",14,3.84,2.63,1.21
+"Signal Mountain High School",14,3.43,3.08,0.35
+"Red Bank High School",14,3.45,2.05,1.40
+"McMinn County High School",13,3.75,2.68,1.07
+"Waverly Central High School",13,3.64,2.92,0.72
+"Morristown Hamblen Hs West",13,3.57,2.64,0.93
+"Marion County High School",13,3.68,2.91,0.77
+"Northeast High School",13,3.42,2.56,0.86
+"East Hamilton School",13,3.72,3.32,0.40
+"Rossview High School",12,3.49,2.85,0.64
+"Davidson Academy",12,3.82,2.99,0.82
+"Baylor School",12,3.33,3.04,0.29
+"Alcoa High School",12,3.63,2.80,0.83
+"Hillwood Comprehensive Hs",12,3.50,2.62,0.88
+"East Robertson High School",12,3.56,2.65,0.90
+"Knoxville Catholic High School",12,3.49,2.83,0.66
+"STEM School Chattanooga",12,3.41,2.00,1.41
+"Penn Foster High School       ",12,3.56,2.36,1.20
+"David Crockett High School",11,3.85,3.24,0.61
+"Shelbyville Central High Sch",11,3.88,3.45,0.43
+"Central High School McMinn Co",11,3.50,2.02,1.47
+"Forrest High School",11,3.85,3.13,0.72
+"Whitwell High School",11,3.43,2.89,0.54
+"Donelson Christian Academy",11,3.65,3.19,0.46
+"Highland Rim Academy",11,4.00,3.40,0.60
+"Sullivan South High School",10,3.97,3.60,0.37
+"Notre Dame High School",10,3.83,3.16,0.67
+"Greeneville High School",10,3.81,3.23,0.58
+"Eagleville High School",10,3.51,2.03,1.48
+"Sunbright High School",10,3.43,2.65,0.78
+"Fairview High School",10,3.51,3.06,0.45
+"Chattanooga Sch Arts/sciences",10,3.41,2.67,0.74
+"Perry County High School",10,3.70,3.23,0.47
+"Columbia Academy",10,3.90,3.47,0.43
+"Republic High School",10,3.36,3.04,0.32
+"Christian Community High Sch",10,3.72,2.85,0.87
+"Berean Christian High School",9,3.79,3.28,0.51
+"Unicoi County High School",9,3.95,3.10,0.85
+"Fayetteville High School",9,3.83,3.26,0.56
+"Greenbrier High School",9,3.62,2.67,0.95
+"Hunters Lane High School",9,3.60,2.34,1.26
+"Ezell Harding Christian School",9,3.33,3.17,0.16
+"Cheatham County High School",9,3.81,3.24,0.57
+"Arlington High School",9,3.55,2.70,0.85
+"Lipscomb Academy",9,3.51,2.48,1.03
+"Union County High School",9,3.46,2.77,0.69
+"Cherokee High School",8,3.53,3.14,0.39
+"Hillsboro High School",8,3.67,2.99,0.67
+"Zion Christian Academy",8,3.72,2.91,0.81
+"Houston High School",8,3.44,2.59,0.86
+"Stratford High School",8,3.51,2.93,0.58
+"Webb School",8,2.87,1.35,1.52
+"Christian Brothers High School",8,3.87,3.18,0.69
+"Johnson County High School",8,3.71,3.08,0.62
+"Gatlinburg-Pittman High School",8,3.62,2.72,0.90
+"Volunteer High School",8,3.66,2.66,1.01
+"Gibbs High School",8,3.86,3.19,0.67
+"Homelife Academy",8,3.79,3.42,0.37
+"Sullivan Central High School",7,3.86,2.90,0.96
+"Midway High School",7,3.69,3.35,0.34
+"Houston County High School",7,3.58,2.93,0.64
+"West Greene High School",7,3.90,3.06,0.84
+"Pigeon Forge High School",7,3.51,2.38,1.13
+"Cornersville High School",7,3.66,2.25,1.41
+"Coalfield High School",7,3.49,3.12,0.37
+"Chattanooga Hs Ctr Creative Ar",7,3.70,3.21,0.50
+"Merrol Hyde Magnet School",7,3.65,2.98,0.67
+"Brighton High School",7,3.52,2.38,1.13
+"Nashville Christian School",7,3.41,2.81,0.60
+"Dyer County High School",7,3.89,3.50,0.38
+"Pope John Paul II High School",7,3.24,2.58,0.66
+"STEP Prep Academy High School",7,3.30,1.99,1.31
+"Montgomery Central High School",7,3.59,2.95,0.64
+"Home Schooled Student",7,3.90,3.47,0.44
+"Lewis County High School",7,3.67,3.00,0.68
+"Grainger High School",7,3.75,2.50,1.26
+"Franklin Christian Academy",7,3.82,2.86,0.96
+"Powell High School",6,3.74,3.07,0.67
+"Cane Ridge High School",6,3.36,2.41,0.96
+"Knoxville Christian School",6,3.68,2.61,1.07
+"Seymour High School",6,3.82,3.53,0.29
+"Sale Creek High School",6,3.42,1.26,2.16
+"L&N Stem Academy",6,3.70,3.24,0.47
+"Cascade High School",6,3.82,3.61,0.20
+"Chuckey Doak High School",6,3.82,3.09,0.74
+"Sevier County High School",6,3.69,2.84,0.84
+"Grace Christian Academy",6,3.76,2.89,0.87
+"Crockett County High School",6,3.79,3.30,0.50
+"Providence Christian Academy",6,3.80,3.06,0.74
+"Clinton County High           ",6,3.58,2.55,1.03
+"McCallie School",6,3.48,3.18,0.30
+"Sweetwater High School",6,3.87,2.81,1.05
+"Soulsville Charter School",6,3.52,2.74,0.78
+"Campbell County Comprehen Hs",6,3.88,3.06,0.82
+"Elizabethton High School",6,3.54,1.73,1.81
+"Sullivan East High School",6,3.86,3.07,0.80
+"Rockwood High School",6,3.74,3.39,0.35
+"Covington High School",6,3.89,3.34,0.55
+"Middle College Austin Peay",6,3.73,3.44,0.29
+"Family Christian Academy",5,3.80,3.68,0.12
+"Nashville School Of The Arts",5,3.57,1.87,1.69
+"Pleasant View Christian School",5,3.78,3.14,0.64
+"Covenant Academy",5,3.77,3.70,0.07
+"North Greene High School",5,3.87,2.67,1.19
+"Northview Academy",5,3.74,2.46,1.28
+"Austin East Magnet High School",5,3.55,2.15,1.41
+"Giles County High School",5,3.42,2.19,1.23
+"Westmoreland High School",5,3.65,2.55,1.10
+"Collinwood High School",5,3.65,3.29,0.36
+"Carter High School",5,3.55,2.86,0.69
+"East Hickman High School",5,3.70,3.25,0.45
+"Jo Byrns High School",5,3.62,3.58,0.04
+"Morristown Hamblen East High",5,3.93,3.23,0.70
+"West High School",5,3.59,2.80,0.79
+"Henry County High School",5,3.89,3.02,0.87
+"Saint Andrews-Sewanee School",5,3.28,3.36,-0.08
+"Richard Hardy Memorial School",5,3.68,3.64,0.05
+"Milan High School",4,3.50,3.00,0.50
+"University School Of Jackson",4,3.95,3.01,0.94
+"Harriman High School",4,3.81,2.27,1.54
+"Chester County High School",4,3.29,1.74,1.55
+"Mount Pleasant High School",4,3.93,2.64,1.29
+"South Doyle High School",4,3.69,2.84,0.86
+"Hickman County High School",4,3.87,3.29,0.58
+"Community High School",4,3.56,2.72,0.83
+"McEwen High School",4,3.80,3.42,0.38
+"Munford High School",4,3.31,2.59,0.72
+"Christian Academy Of Knoxville",4,3.47,3.41,0.06
+"Stewart County High School",4,3.70,3.22,0.48
+"East Nashville Magnet School",4,3.53,2.44,1.09
+"Huntingdon High School",4,3.70,3.28,0.42
+"Northwest High School",4,3.62,3.04,0.58
+"Adamsville High School",4,3.85,2.29,1.56
+"Riverside High School",4,3.75,2.78,0.98
+"Providence Academy",4,3.93,3.63,0.29
+"Humboldt High School",4,3.60,2.65,0.96
+"Trinity Christian Academy",4,3.70,2.70,1.00
+"Clarksville Academy",4,3.72,2.78,0.94
+"Camden Central High School",4,3.52,1.39,2.13
+"Nashville Big Picture HS",4,3.58,2.44,1.14
+"Gen Org for Tech Ed/Voc Trng",4,3.51,3.46,0.06
+"Gujarat Sec & Higher Sec Ed",4,2.75,2.51,0.24
+"Richland High School",3,3.48,1.58,1.90
+"Tellico Plains High School",3,3.73,2.07,1.67
+"South Greene High School",3,3.70,2.74,0.97
+"North Side High School",3,3.21,2.15,1.06
+"Greenback High School",3,3.72,2.74,0.97
+"Lawrence County High School",3,3.63,2.58,1.04
+"Hampton High School",3,3.78,2.74,1.04
+"Dayspring Academy",3,3.76,3.70,0.06
+"Lighthouse Christian School",3,3.92,3.00,0.92
+"Ensworth High School",3,3.27,2.14,1.13
+"Tennessee High School",3,3.85,3.53,0.32
+"Girls Preparatory School",3,3.56,3.83,-0.28
+"LEAD Academy High School",3,3.55,3.00,0.55
+"Summertown High School",3,3.65,3.11,0.54
+"Hardin County High School",3,3.75,2.40,1.36
+"Cocke County High School",3,3.65,3.25,0.40
+"Franklin Road Christian School",3,3.50,1.94,1.56
+"McNairy Central High School",3,3.60,2.55,1.06
+"Tennessee School For The Blind",3,3.49,2.21,1.28
+"Hoover High School            ",3,2.60,2.69,-0.10
+"Unaka High School",3,3.67,0.81,2.86
+"Webb School Of Knoxville",3,3.49,2.15,1.34
+"CAK Homeschool",3,3.75,2.55,1.20
+"Kings Academy",3,3.16,2.87,0.29
+"Clayton-Bradley Academy",3,4.00,3.64,0.36
+"Heritage Academy",3,3.37,2.67,0.70
+"Chatt Girls Leadership Acad",3,2.87,1.82,1.05
+"Intrepid Coll Prep Independ",3,3.13,2.30,0.83
+"Jellico High School",3,3.72,2.96,0.76
+"Culleoka High School",3,3.68,2.17,1.51
+"Prairie Ridge High School",3,3.67,3.56,0.11
+"Franklin Road Academy",3,3.45,2.45,1.00
+"Happy Valley High School",3,3.78,3.24,0.55
+"Dyersburg High School",3,3.36,3.37,-0.01
+"West Ridge High School",3,3.77,3.49,0.28
+"Fulton High School",3,3.55,2.24,1.31
+"Union City High School",2,4.00,3.73,0.27
+"Seton Home Study School       ",2,4.00,4.00,0.00
+"Liberty Technology Magnet Hs",2,3.56,3.17,0.38
+"University School",2,3.96,3.41,0.55
+"Peabody High School",2,3.86,2.89,0.97
+"KIPP Nashville Collegiate HS",2,2.70,0.92,1.78
+"Wayne County High School",2,3.40,2.72,0.67
+"South Pittsburg High School",2,3.58,1.67,1.92
+"Cumberland Co High School     ",2,3.46,3.00,0.46
+"Gordon Lee High School        ",2,3.92,2.76,1.16
+"Loretto High School",2,3.51,3.14,0.36
+"McKenzie High School",2,3.84,3.72,0.12
+"Stephen Decatur High School",2,4.00,1.78,2.22
+"Comenius School.",2,3.92,4.00,-0.08
+"Cass Technical High School    ",2,3.50,3.30,0.20
+"Lancaster Christian Academy",2,3.74,2.21,1.54
+"Nelson County High School     ",2,3.10,1.88,1.22
+"Collierville High School",2,3.80,3.90,-0.11
+"Ivy Academy",2,3.84,3.74,0.11
+"Howard School Academics & Tech",2,3.08,1.66,1.42
+"Lakeside High School          ",2,3.52,3.32,0.21
+"Tennessee Online Public School",2,3.52,3.25,0.27
+"Cedar Shoals High School      ",2,3.06,2.85,0.20
+"Renaissance High School",2,3.62,1.60,2.02
+"Sumner Co Middle College HS",2,3.41,3.04,0.37
+"Wilson County Adult Hs",2,3.20,1.29,1.90
+"Saint Louis De Gonzague",2,3.84,3.90,-0.06
+0,2,0.00,3.43,-3.43
+"Cumberland Gap High School",2,3.91,3.36,0.55
+"Santa Fe High School",2,3.82,3.41,0.42
+"Chelsea High School           ",2,3.80,2.20,1.60
+"Cudahy High School",2,2.94,3.22,-0.28
+"The Ogburn School Inc",2,3.76,3.48,0.28
+"Sacred Heart Of Jesus Hs",2,3.58,0.12,3.46
+"Abeka Academy",2,3.80,3.06,0.73
+"Academy at Hickory Hollow",2,2.46,2.68,-0.22
+"Decatur High School           ",2,3.87,3.67,0.20
+"Claiborne High School",2,3.54,2.00,1.54
+"Sailaway Learning and Academy",2,3.99,3.56,0.43
+"New Hope Academy",2,3.55,3.28,0.27
+"Winder Barrow High School     ",2,2.76,1.50,1.25
+"Apalachee High School",2,3.65,3.64,0.00
+"Roswell High School           ",2,3.00,2.55,0.45
+"Christian Acad of Cumberlands",2,3.56,3.00,0.55
+"West Forsyth High School",2,3.78,4.00,-0.21
+"Escambia High School          ",2,3.62,2.76,0.86
+"Franklin Classical School",2,3.94,3.34,0.60
+"Concord Christian School",2,4.00,3.70,0.30
+"Overton High School",2,3.90,3.54,0.37
+"Lookout Valley High School",2,3.72,3.60,0.12
+"Gibson County High School",2,3.79,2.54,1.25
+"F C Boyd Christian School",2,3.88,3.30,0.58
+"James Madison High School",2,1.69,1.82,-0.12
+"Maryville Christian School",2,3.97,3.56,0.40
+"Middle College HS Memphis",2,3.47,2.34,1.12
+"Starfield College",2,3.46,2.72,0.75
+"West Creek High School",2,3.54,3.18,0.36
+"Collins Hill High School      ",2,3.02,2.33,0.69
+"Elk Grove High School         ",2,3.34,2.47,0.88
+"West Jessamine High School    ",2,3.55,2.78,0.77
+"Haywood High School",2,3.96,2.96,0.99
+"Polk County High School",2,3.21,2.94,0.27
+"South Warren High School",2,3.36,1.59,1.78
+"Agathos Classical School",2,3.64,3.49,0.15
+"Cordova High School",2,3.06,1.50,1.56
+"Harding Academy Of Memphis",2,3.16,1.78,1.38
+"Bolivar Central High School",2,3.33,2.24,1.10
+"Frank Hughes High School",2,3.81,2.90,0.90
+"Faith Heritage Christian Acad",2,4.00,3.10,0.90
+"Battle Ground Academy",2,3.90,2.99,0.91
+"Liberty University Online Acad",2,3.71,3.76,-0.04
+"United Christian Academy",2,4.00,3.07,0.93
+"John S Battle High School     ",2,3.84,3.78,0.06
+"Valdosta High School          ",2,3.50,1.92,1.58
+"Newfield High School          ",2,3.50,1.90,1.60
+"Ministry Of Education",2,3.68,3.74,-0.06
+"Dahlske Videregaende Skole",2,3.78,3.71,0.07
+"Princess Chulabhorn College",2,3.46,3.40,0.05
+"Grace Christian Acad",1,3.70,3.21,0.49
+"William Mason High School     ",1,2.49,0.00,2.49
+"Shanghai Datong High School",1,3.36,3.00,0.36
+"Christ Our Rock Lutheran Hs",1,3.66,3.75,-0.09
+"Pearl-Cohn High School",1,3.63,2.08,1.55
+"Branson High School           ",1,1.33,3.69,-2.36
+"Gleason High School",1,3.33,2.44,0.89
+"East Ridge High School",1,3.61,0.00,3.61
+"Peachtree High School         ",1,4.00,3.19,0.81
+"Hampshire Unit School",1,3.97,3.71,0.26
+"Owensboro Cath High School    ",1,3.82,4.00,-0.18
+"Hueytown High School          ",1,3.96,2.77,1.19
+"Yorkville High School         ",1,3.02,2.57,0.45
+"Huntsville High School        ",1,2.88,3.33,-0.45
+"Buckhorn High School          ",1,4.00,3.47,0.53
+"Saint Benedict School",1,3.70,3.54,0.16
+"Columbus Christian Academy",1,3.04,2.47,0.57
+"North Lamar High School",1,3.03,0.00,3.03
+"Miss Sch For Math & Sciences  ",1,3.72,3.44,0.28
+"Ripley High School",1,3.74,3.50,0.24
+"Miyamura High School",1,4.00,3.75,0.25
+"Thomas Jefferson High School",1,2.93,2.38,0.55
+"Fayette Academy",1,4.00,3.73,0.27
+"Concord High School           ",1,3.15,3.08,0.07
+"Germantown High School",1,3.55,2.71,0.84
+"Allatoona High School",1,3.83,3.69,0.14
+"South Forsyth High School     ",1,2.51,0.89,1.62
+"Brookwood High School         ",1,3.24,3.00,0.24
+"Battlefield High School",1,3.82,2.60,1.22
+"Berean Academy",1,3.95,4.00,-0.05
+"Los Osos",1,3.89,3.47,0.42
+"Northwest Whitfield Co High   ",1,3.59,2.88,0.71
+"Sachem High School East",1,3.70,3.79,-0.09
+"Scottsboro High School        ",1,3.69,3.00,0.69
+"Dwight D Eisenhower High Schoo",1,3.94,3.88,0.06
+"Silverdale Baptist Academy",1,3.43,2.50,0.93
+"Bloomington High School North",1,3.53,3.45,0.08
+"North Atlanta High School     ",1,3.79,3.40,0.39
+"Blue Springs South High School",1,3.29,1.82,1.47
+"Elbert County High School     ",1,3.11,3.54,-0.43
+"Notre Dame-Bishop Gibbons Sch",1,2.50,1.29,1.21
+"Southwest Dekalb              ",1,3.41,3.71,-0.30
+"Dunwoody High School          ",1,3.42,3.14,0.28
+"Jefferson High School         ",1,3.38,2.29,1.09
+"Carthage Central High School",1,2.80,2.00,0.80
+"Carl Junction R-I High School ",1,3.68,0.00,3.68
+"Gateway Christian Academy",1,3.53,3.79,-0.26
+"Secaucus High School",1,3.41,3.25,0.16
+"Triad High School",1,2.79,3.54,-0.75
+"Scott County Senior High Schoo",1,3.89,2.55,1.34
+"Riverside High School         ",1,3.93,2.67,1.26
+"Seminole Ridge High School",1,2.39,3.25,-0.86
+"Northview High School         ",1,3.50,3.21,0.29
+"Woodstock High School         ",1,3.40,3.54,-0.14
+"Headland High School          ",1,3.67,3.21,0.46
+"Haverling High School         ",1,3.03,1.43,1.60
+"Crete Monee High School       ",1,3.54,3.23,0.31
+"Bartlett Yancey Senior High   ",1,2.17,0.00,2.17
+"Hamilton Co Coll High Chatt St",1,2.34,2.17,0.17
+"Maristes Monterrat",1,4.00,4.00,0.00
+"Massey Hill Classical High Sch",1,4.00,3.50,0.50
+"Porter RIdge High School      ",1,2.95,3.71,-0.76
+"Mose Vines Preparation Acad",1,2.90,2.82,0.08
+"Loganville High School        ",1,3.16,3.80,-0.64
+"Putnam County Adult High Sch",1,4.00,3.50,0.50
+"Wayne County High School      ",1,4.00,2.67,1.33
+"De Beque High School          ",1,3.70,2.60,1.10
+"Mountain Range High School",1,3.82,3.44,0.38
+"Eastlake High School          ",1,3.44,4.00,-0.56
+"Hartselle High School         ",1,3.74,2.60,1.14
+"Elizabethtown Sr High School  ",1,4.00,4.00,0.00
+"Mattawan High School          ",1,3.39,3.33,0.06
+"Al Dhafra Private Schools",1,2.64,2.50,0.14
+"Dutchtown High School",1,3.53,2.90,0.63
+"Clark County R-1 High School",1,3.14,0.93,2.21
+"Turpin High School",1,3.97,3.50,0.47
+"Myers Park High School        ",1,3.18,2.09,1.09
+"Gadsden High School           ",1,4.00,3.79,0.21
+"Brighton High School          ",1,3.36,0.00,3.36
+"Assumption High School        ",1,3.90,3.50,0.40
+"Haleyville High School        ",1,4.00,3.40,0.60
+"Sebring High School           ",1,3.59,2.67,0.92
+"Hampden Academy               ",1,2.46,2.63,-0.17
+"Deerfield-Windsor School",1,3.09,2.92,0.17
+"Lincoln High School           ",1,3.89,4.00,-0.11
+"North Hall High School        ",1,3.83,3.09,0.74
+"Edwardsville High School      ",1,2.80,3.54,-0.74
+"Hononegah Comm High School",1,4.00,3.79,0.21
+"Howard High School            ",1,3.88,3.36,0.52
+"Warren Hills Regional         ",1,2.99,3.00,-0.01
+"Wade Hampton High School",1,4.00,2.29,1.71
+"Oak Hill Academy              ",1,2.64,0.42,2.22
+"Macon Christian Academy",1,4.00,4.00,0.00
+"Lexington Christian Academy   ",1,3.85,2.79,1.06
+"Buford High School            ",1,4.00,4.00,0.00
+"Athens High School            ",1,3.86,3.63,0.23
+"Dos Pueblos High School       ",1,3.69,0.79,2.90
+"Brentwood Academy",1,3.19,2.75,0.44
+"Glen Allen High School",1,3.94,3.79,0.15
+"Lambert High School",1,3.93,3.71,0.22
+"Mountain Education Center Hs",1,4.00,0.00,4.00
+"Keen Mountain Christian Acad",1,4.00,4.00,0.00
+"South Paulding High School",1,3.72,3.71,0.01
+"First Assembly Christian Sch",1,4.00,3.71,0.29
+"The Phoenix School",1,3.31,1.40,1.91
+"Portage Central High School",1,3.60,3.40,0.20
+"Canyon Crest Academy",1,3.92,3.83,0.09
+"Lockport High School          ",1,3.90,2.50,1.40
+"North Oconee High School",1,4.00,3.73,0.27
+"Abingdon High School          ",1,3.94,3.20,0.74
+"Oasis International School",1,3.88,4.00,-0.12
+"Saint Pius X High School",1,4.00,3.47,0.53
+"Kings High School             ",1,2.38,2.58,-0.20
+"Aurora West High School       ",1,2.58,2.00,0.58
+"P D Jackson-Olin High School  ",1,3.54,3.57,-0.03
+"East High School",1,4.00,3.18,0.82
+"Marian Catholic High School   ",1,3.23,3.19,0.04
+"Bonny Eagle High School       ",1,3.92,3.73,0.19
+"Tennessee Christian Academy",1,3.31,2.94,0.37
+"Weaver High School            ",1,3.53,3.29,0.24
+"Baker High School             ",1,3.18,2.44,0.74
+"Cagaloglu High School",1,3.57,3.14,0.43
+"Rockledge High School         ",1,2.78,1.91,0.87
+"Jackson Memorial High School  ",1,3.35,3.47,-0.12
+"Woodrow Wilson High School",1,3.58,3.00,0.58
+"Boaz High School              ",1,3.47,1.79,1.68
+"Saint Vincent Pallotti HS     ",1,3.77,0.00,3.77
+"Brooks High School            ",1,3.00,1.89,1.11
+"Greenville High School        ",1,2.70,3.60,-0.90
+"North Paulding High School",1,3.17,3.31,-0.14
+"Sidney Lanier High School     ",1,2.80,3.00,-0.20
+"Thompson High School          ",1,2.82,2.36,0.46
+"Colquitt County High School   ",1,3.00,2.86,0.14
+"Riverdale Baptist School",1,3.95,3.81,0.14
+"Greencastle High School       ",1,2.93,3.13,-0.20
+"W T Woodson High School       ",1,3.06,3.38,-0.32
+"McCreary Central High School  ",1,3.21,0.00,3.21
+"Tr Robinson High School       ",1,3.42,1.69,1.73
+"Space Coast Junior/senior Hs",1,2.89,2.73,0.16
+"North Marion High School      ",1,3.68,3.71,-0.03
+"East Limestone High School    ",1,3.77,3.38,0.39
+"Madisonville North Hopkins H S",1,3.22,2.58,0.64
+"Bassfield High School",1,2.79,2.85,-0.06
+"Baldwin Prep School",1,4.00,2.42,1.58
+"American Heritage Sch Plantatn",1,3.82,3.71,0.11
+"Magnolia High School",1,2.88,1.42,1.46
+"South Broward High School     ",1,2.61,0.20,2.41
+"Istituto Statale Marco Belli",1,3.13,4.00,-0.87
+"Union Grove High School       ",1,4.00,4.00,0.00
+"Arabia Mountain High School",1,3.82,3.76,0.06
+"Urbana High School",1,3.02,2.33,0.69
+"Russellville High School      ",1,2.54,2.93,-0.39
+"Palm Harbor Univ High School",1,3.66,3.50,0.16
+"Gateway Academy Brentwood",1,3.75,1.79,1.96
+"Clayton Valley High School",1,3.73,1.94,1.79
+"First Baptist Academy",1,4.00,3.15,0.85
+"Airline High School           ",1,3.21,0.87,2.34
+"Baldwyn High School           ",1,4.00,3.71,0.29
+"Althoff Catholic High School",1,4.00,2.79,1.21
+"Redeemer Classical Academy",1,3.89,3.21,0.68
+"Kirtland High School",1,3.27,3.63,-0.36
+"Laurel Springs School",1,3.58,3.06,0.52
+"Nesbitt Discovery Academy",1,3.60,2.23,1.37
+"Waterford Union High School",1,2.54,2.40,0.14
+"Bowling Green High School     ",1,4.00,3.88,0.12
+"McGehee High School",1,3.60,3.31,0.29
+"East Jessamine High School",1,4.00,4.00,0.00
+"Batavia High School           ",1,3.20,3.47,-0.27
+"Patriot High School",1,4.00,3.67,0.33
+"John Carroll High School      ",1,4.00,3.54,0.46
+"Craigmont High School",1,4.00,3.63,0.37
+"Christ's Legacy Academy",1,3.62,2.82,0.80
+"Warren Woods Tower High School",1,2.52,0.33,2.19
+"Xavier High School",1,3.80,3.50,0.30
+"Rick Reedy High Schoo.",1,3.59,3.38,0.21
+"Clermont Northeastern         ",1,3.97,3.27,0.70
+"Jackson Christian School",1,2.87,3.40,-0.53
+"Kettle Moraine High School    ",1,4.00,3.73,0.27
+"Carson High School",1,3.48,1.00,2.48
+"FAYETTE COUNTY HIGH SCHOOL",1,3.96,4.00,-0.04
+"Northwood High School",1,3.51,1.15,2.36
+"Bullard High School",1,3.94,4.00,-0.06
+"Valley Academy",1,3.69,2.13,1.56
+"William & Reed Academy",1,2.84,2.69,0.15
+"Connections Academy",1,3.05,2.62,0.43
+"West Texas High School",1,3.65,2.31,1.34
+"Brainerd High School",1,3.14,2.46,0.68
+"Canon-McMillan Hs             ",1,4.00,3.59,0.41
+"Wauwatosa East High School",1,3.53,3.31,0.22
+Connections,1,2.28,1.46,0.82
+"International Sch Of Choueifat",1,3.93,3.81,0.12
+"Bellbrook High School         ",1,4.00,2.75,1.25
+"James Buchanan High School",1,4.00,3.73,0.27
+"Plymouth-Salem High School    ",1,3.77,3.43,0.34
+"North Broward School",1,4.00,3.33,0.67
+"Berean Baptist Academy",1,3.82,2.38,1.44
+"East Lyme High School         ",1,3.29,3.08,0.21
+"Horizon High School",1,4.00,3.33,0.67
+"Jakarta International School  ",1,2.37,3.13,-0.76
+"Peoria Christian",1,3.18,2.75,0.43
+"St Mary High School           ",1,3.78,3.27,0.51
+"Carlsbad High School          ",1,3.77,4.00,-0.23
+"Universidad Autonoma del Nores",1,3.03,2.57,0.46
+"Ocean Township High School",1,4.00,3.31,0.69
+"Wilmington High School",1,4.00,3.75,0.25
+"Heritage International School",1,3.91,3.53,0.38
+"Luverne High School           ",1,3.17,0.71,2.46
+"Mountain View Christian Acad",1,3.80,2.38,1.42
+"Benjamin E Mays High School   ",1,2.70,2.00,0.70
+"Millington Central High School",1,3.51,1.56,1.95
+"Newark Valley High School",1,3.10,2.36,0.74
+"Triangle Math and Science Acad",1,3.97,2.50,1.47
+"Hamilton Heights High School  ",1,3.35,4.00,-0.65
+"Mead Senior High school       ",1,3.06,1.56,1.50
+"Cabool High School",1,3.37,2.00,1.37
+"Ronald Reagan High School",1,3.10,2.67,0.43
+"Timber Creek High School      ",1,3.89,3.44,0.45
+"Saint Thomas More Academy",1,4.00,4.00,0.00
+"Scotts Hill High School",1,3.64,3.43,0.21
+"Denmark High School",1,3.85,1.93,1.92
+"Mercer Co High School         ",1,4.00,3.50,0.50
+"Rocky Point High School",1,3.40,1.82,1.58
+"Basha High School",1,3.98,3.40,0.58
+"Serrano High School           ",1,3.14,2.83,0.31
+"Tahquitz High School",1,3.19,1.16,2.03
+"Judah Christian High School",1,4.00,2.00,2.00
+"Urbane College",1,4.00,1.33,2.67
+"Holloway Vo-Tech High School",1,3.34,1.46,1.88
+"Holy Trinity Episcopal Academy",1,3.20,1.00,2.20
+"Dutch Fork High School",1,3.50,2.46,1.04
+"Lausanne Collegiate School",1,3.15,2.14,1.01
+"Camden High School            ",1,4.00,3.00,1.00
+"Archangel School",1,3.70,3.80,-0.10
+"Colonial Forge High School    ",1,3.33,2.00,1.33
+"Monroe County High School     ",1,3.53,2.62,0.91
+"Vibgyor High School",1,3.00,3.60,-0.60
+"Gloucester Catholic High Schoo",1,3.63,3.64,-0.01
+"West Anchorage High School    ",1,3.26,4.00,-0.74
+"International School Of Manila",1,3.48,3.15,0.33
+"Cumberland Valley High School ",1,4.00,4.00,0.00
+"Brentsville Dist Mid-Senior Hs",1,3.97,2.25,1.72
+"Rogers High School            ",1,3.90,3.47,0.43
+"Ardmore High School           ",1,4.00,3.50,0.50
+"Lake Placid High School       ",1,2.96,0.65,2.31
+"IMG Academy",1,3.43,2.53,0.90
+"Edgewood High School",1,3.77,1.46,2.31
+"Greenfield High School",1,3.85,2.67,1.18
+"White Station High School",1,4.00,3.00,1.00
+"Waukesha South High School",1,3.50,2.75,0.75
+"William T Dwyer Comm High Scho",1,2.96,0.10,2.86
+"Gilbert High School",1,3.73,3.13,0.60
+"Jefferson City High School",1,2.90,0.00,2.90
+"Saint Charles West High School",1,3.61,1.50,2.11
+"Family Christian Acad East TN",1,3.44,1.94,1.50
+"Cross Creek Christian School",1,4.00,4.00,0.00
+"South Side High School",1,3.72,2.31,1.41
+"Franklin Community High School",1,3.94,3.29,0.65
+"Pawhuska High School",1,3.87,3.43,0.44
+"Maple Grove High School       ",1,4.00,4.00,0.00
+"Jackson High School           ",1,4.00,3.47,0.53
+"Pine Island High School",1,3.96,4.00,-0.04
+"Lafayette High School         ",1,4.00,3.50,0.50
+"Lincoln-Way Comm High School  ",1,4.00,3.50,0.50
+"Neuqua Valley High School",1,3.45,3.59,-0.14
+"Christian Cottage School",1,3.81,3.53,0.28
+"Acellus Academy",1,3.77,2.50,1.27
+"Central Acad Technology Arts",1,2.55,1.79,0.76
+"Our Savior New American School",1,3.93,2.13,1.80
+"Coronado High School",1,4.00,2.75,1.25
+"Benjamin Franklin High School ",1,3.15,3.75,-0.60
+"Oak Creek-Franklin High School",1,3.69,3.33,0.36
+"Mount Zion High School",1,3.42,2.29,1.13
+"Walter Panas High School",1,3.40,2.83,0.57
+"Leesville High School         ",1,4.00,4.00,0.00
+"Union Co High School          ",1,3.98,3.25,0.73
+"Mt Airy High School           ",1,4.00,3.75,0.25
+"Tennessee Connections Academy",1,2.58,2.40,0.18
+"St Edward High School         ",1,4.00,3.50,0.50
+"Dewey High School",1,4.00,4.00,0.00
+"Stratford Academy             ",1,3.56,2.79,0.77
+"Alan C Pope High School       ",1,3.47,3.38,0.09
+"Valor Collegiate Academy",1,3.63,3.20,0.43
+"Alpha Omega Academy",1,3.65,3.75,-0.10
+"Spencer County High School    ",1,4.00,2.53,1.47
+"Herron High School",1,4.00,4.00,0.00
+"Milton High School",1,4.00,4.00,0.00
+"Christ Presbyterian Academy",1,4.00,4.00,0.00
+"Muscle Shoals High School     ",1,4.00,3.88,0.12
+"Milford High School           ",1,4.00,4.00,0.00
+"Lafayette Sr High School      ",1,4.00,2.60,1.40
+"Wright City High School       ",1,4.00,4.00,0.00
+"Blue Ridge High School        ",1,4.00,3.25,0.75
+"James Clemens High School",1,3.94,3.06,0.88
+"Pace High School              ",1,3.66,3.40,0.26
+"Franklin County High School   ",1,4.00,3.71,0.29
+"Seaway District High School",1,3.32,3.29,0.03
+"William Amos Hough High School",1,3.47,0.73,2.74
+"Louisville High School        ",1,3.34,3.60,-0.26
+"Opp High School               ",1,4.00,2.71,1.29
+"Hampshire High School         ",1,4.00,3.50,0.50
+"Madison Southern High School  ",1,3.43,0.40,3.03
+"Westview High School",1,4.00,3.73,0.27
+"Wilson High School            ",1,3.78,3.40,0.38
+"Chance Transitional School",1,3.17,0.00,3.17
+"North Central High School     ",1,4.00,4.00,0.00
+"Vanguard Virtual High School",1,3.24,3.44,-0.20
+"Chesapeake Science Point PCS",1,3.54,2.43,1.11
+"Carmel High School            ",1,3.48,3.40,0.08
+"Cathedral Catholic High School",1,4.00,3.56,0.44
+"Arbor View High School",1,4.00,3.29,0.71
+"Greenbrier High School        ",1,3.40,2.80,0.60
+"Lyman High School             ",1,2.61,3.50,-0.89
+"Downers Grove Comm H S South  ",1,3.69,3.00,0.69
+"Saint Cecilia Academy",1,3.75,3.44,0.31
+"Century High School",1,3.85,3.21,0.64
+"Sanford H Calhoun High School",1,3.80,3.18,0.62
+"Rio Americano High School     ",1,3.35,3.25,0.10
+"Free Will Baptist School",1,3.64,2.33,1.31
+"Quabbin Regional Mid/high Sch",1,3.65,4.00,-0.35
+"Cardinal Gibbons Meml Hs      ",1,3.90,3.40,0.50
+"Springfield High School       ",1,2.97,2.91,0.06
+"Lake Minneola High School",1,3.75,2.36,1.39
+"Career Magnet Academy",1,3.32,3.75,-0.43
+"Pembroke Pines Charter Hs",1,3.21,0.41,2.80
+"Turlock High School",1,3.56,2.25,1.31
+"Bay Haven Charter Academy",1,3.12,4.00,-0.88
+"Murrieta Mesa High School",1,2.84,1.80,1.04
+"Vinal Technical High School",1,3.70,3.38,0.32
+"Woodland High School",1,2.93,0.94,1.99
+"Solon High School",1,3.18,2.00,1.18
+"La Grange High School         ",1,4.00,3.18,0.82
+"Colegio Inmaculada Concepcion",1,3.65,2.53,1.12
+"Mill River Union High School",1,3.62,3.13,0.49
+"Martha Layne Collins High Sch",1,4.00,1.53,2.47
+"King George High School       ",1,3.53,2.14,1.39
+"Briarcrest Christian School",1,3.91,3.50,0.41
+"Pocahontas Area School",1,2.90,3.25,-0.35
+"Bishop Union High School",1,3.33,1.94,1.39
+"Milton High School            ",1,3.30,2.50,0.80
+"Putnam Co High School         ",1,3.50,1.46,2.04
+"Rockvale High School          ",1,3.75,3.71,0.04
+"Campion College",1,3.90,3.73,0.17
+"Lowndes High School           ",1,2.90,2.21,0.69
+"McEachern High School         ",1,3.09,3.17,-0.08
+"Baltimore City College",1,3.33,2.07,1.26
+"J Serra High School",1,3.33,1.58,1.75
+"Eagles Landing High School    ",1,3.77,4.00,-0.23
+"Tattnall Co High School       ",1,3.25,2.17,1.08
+"Ledgemont High School",1,2.89,2.71,0.18
+"Charlotte Catholic High School",1,3.40,4.00,-0.60
+"Southwestern Central Hs",1,3.10,0.80,2.30
+"Kenwood High",1,2.87,0.86,2.01
+"Bradford High School",1,3.81,3.43,0.38
+"Whitehaven High School",1,2.85,0.47,2.38
+"Morris Wilson Campus School",1,3.67,0.00,3.67
+"Madison Academy",1,3.18,3.71,-0.53
+"Homewood High School",1,3.00,2.79,0.21
+"Academia Americana",1,0.00,4.00,-4.00
+"Eastern High School           ",1,3.83,2.86,0.97
+"Imperial School",1,2.44,2.50,-0.06
+"Yakumo Academy Sr High Sch",1,3.32,2.86,0.46
+"21st Secondary School Makkah",1,3.74,4.00,-0.26
+"Benton High School            ",1,3.81,1.82,1.99
+"Clay Chalkville High School   ",1,3.49,2.46,1.03
+"Rabun Gap-Nacoochee High Schoo",1,3.70,3.71,-0.01
+"Nativity Bvm High School",1,0.00,3.79,-3.79
+"Pierce County High School     ",1,2.60,2.53,0.07
+"Johns Creek High School",1,3.00,3.08,-0.08
+"North Cobb High School        ",1,3.25,2.71,0.54
+"Delhi Public School",1,4.00,3.73,0.27
+"Ajyal Al Khafji Private Sec Sc",1,4.00,3.14,0.86
+"British West Indies Collegiate",1,3.11,3.79,-0.68
+"Taylor'S College              ",1,0.00,0.00,0.00
+"St Mary's Kibuk GIrls Sec Sch",1,3.23,4.00,-0.77
+"Kapkoros Girls Secondary Sch",1,2.83,2.27,0.56
+"Neil McNeil High School",1,3.50,2.79,0.71
+"Newport Middle High School",1,2.19,2.85,-0.66
+"Nadderud Videregaende Skole",1,4.00,4.00,0.00
+"Pham Phu Thu High School",1,3.50,3.33,0.17
+"Eaton High School",1,3.95,3.71,0.24
+"Gymnasium Am Stefansberg",1,3.80,4.00,-0.20
+"Aldhaid Sec School for Boys",1,3.47,4.00,-0.53
+"Al-Tawien Boys' School",1,3.57,4.00,-0.43
+"College de Montreal",1,3.50,1.79,1.71
+"Escola Secundaria Pedro Nunes",1,2.05,4.00,-1.95
+"Kanyawanga High School",1,2.50,0.62,1.88
+"Thetsaban 6 Udon Thani City HS",1,3.50,3.50,0.00
+"Phan Boi Chau HS for Gifted",1,4.00,3.73,0.27
+"Grace Academy",1,3.76,3.36,0.40
+"Escuela Cristiana Bilingue Sun",1,3.80,3.67,0.13
+"St Colman's College Newry",1,3.30,2.92,0.38
+"Milestone College",1,4.00,3.56,0.44
+"Aichi Prefectural Kariya N HS",1,3.20,3.30,-0.10
+"Bilimkana-AUCA High School",1,3.10,1.92,1.18
+"Stockholms Idrottsgymnasium",1,3.71,2.64,1.07
+"Broadfording Christian Academy",1,2.70,2.11,0.59
+"Great Panaf Schools",1,3.30,3.25,0.05
+"Jumeira Baccalaureate School",1,4.00,3.00,1.00
+"GLM International School",1,2.00,0.00,2.00
+"Gainesville High School       ",1,3.28,3.14,0.14
+"High Achievers Coach Intl Acad",1,2.55,2.42,0.13
+"Lycee Al-Horreya De Bab El-Lou",1,3.70,0.00,3.70
+"Tapasya Integrated School",1,2.90,3.69,-0.79
+"Incheon Daegeon High School",1,3.92,3.66,0.26
+"Cocoa High School             ",1,3.64,2.85,0.79
+"E-Gimnazija Grammar School",1,3.83,2.82,1.01
+"Scoil Mhuire Trim",1,3.80,3.63,0.17
+"Punjab School Education Board",1,2.50,1.29,1.21
+"St Ursula Eichi High School",1,2.61,0.38,2.23
+"Rene Descartes High School",1,0.00,2.50,-2.50
+"Teays Valley Christian School",1,3.09,2.86,0.23
